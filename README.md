@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Nikolina 👋
 
-<!--
-**puacnikolina/puacnikolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year IT student with a growing interest in backend development.
 
-Here are some ideas to get you started:
+I enjoy learning how things work behind the scenes of web applications and building the logic that powers them. 
+My main focus right now is improving my backend skills and gaining practical experience through coding and small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+
+* Build more backend projects
+* Improve problem-solving and programming fundamentals
+
+
