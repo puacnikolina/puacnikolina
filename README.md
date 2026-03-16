@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Nikolina 👾<br><br>Final-year IT student with a growing interest in backend development.<br><br>I enjoy learning how things work behind the scenes of web applications and building the logic that powers them.<br><br>My main focus right now is improving my backend skills and gaining practical experience through coding and small projects.
+Hi, I'm Nikolina 👾<br><br>Final-year IT student with a growing interest in backend development.<br><br>I enjoy learning how things work behind the scenes of web applications and building the logic that powers them.<br><br>My main focus right now is improving my backend skills and gaining practical experience through coding and small projects.
 
 
 # 💻 Tech Stack:
